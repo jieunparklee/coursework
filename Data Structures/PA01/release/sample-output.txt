@@ -1,0 +1,10 @@
+ENQUEUE: hello
+ENQUEUE: data-structure
+DEQUEUE: hello
+LENGTH: 1
+ISEMPTY: false
+ENQUEUE: hello
+REVERSE: COMPLETE
+DEQUEUE: hello
+CLEAR: COMPLETE
+DEQUEUE: the queue is empty!

@@ -1,0 +1,41 @@
+enqueue hello
+enqueue it's
+enqueue me
+enqueue I
+enqueue was
+dequeue
+enqueue wondering
+reverse
+dequeue
+reverse
+length
+isEmpty
+reverse
+enqueue hello
+length
+dequeue 
+reverse
+dequeue
+clear
+length
+isEmpty
+dequeue
+
+
+enqueue hello
+enqueue it's
+length
+reverse
+enqueue me
+dequeue
+
+
+dequeue
+
+
+dequeue
+
+
+dequeue
+
+
